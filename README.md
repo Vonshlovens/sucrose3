@@ -13,3 +13,7 @@ Alternatively, or as a future implementation, develop an algorithm that starts w
 ### Programmatic Approaches
 
 In order to achieve more deterministic outcomes, could use actual social media platforms (X, instagram) APIs to check common connections, and find content for the knowledge graph (potentially using further deep research runs, LLM calls, etc.)
+
+## Console
+
+Allow for creating multiple knowledge agents in the console (for now just admin access)
